@@ -1,9 +1,5 @@
-# OS-specific
+# Mac specific
 .DS_Store
 
-# Editor swapfiles
-.*.sw?
-*~
-
-# Vagrant stuff
+# Vagrant specific
 .vagrant
